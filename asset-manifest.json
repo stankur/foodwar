@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/foodwar/static/js/main.ba89d31a.js",
+    "static/js/787.a5990d24.chunk.js": "/foodwar/static/js/787.a5990d24.chunk.js",
+    "index.html": "/foodwar/index.html",
+    "main.ba89d31a.js.map": "/foodwar/static/js/main.ba89d31a.js.map",
+    "787.a5990d24.chunk.js.map": "/foodwar/static/js/787.a5990d24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ba89d31a.js"
+  ]
+}
