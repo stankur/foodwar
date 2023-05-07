@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/foodwar/static/js/main.6c80b350.js",
+    "main.js": "/foodwar/static/js/main.ef52cf5a.js",
     "static/js/787.a5990d24.chunk.js": "/foodwar/static/js/787.a5990d24.chunk.js",
     "index.html": "/foodwar/index.html",
-    "main.6c80b350.js.map": "/foodwar/static/js/main.6c80b350.js.map",
+    "main.ef52cf5a.js.map": "/foodwar/static/js/main.ef52cf5a.js.map",
     "787.a5990d24.chunk.js.map": "/foodwar/static/js/787.a5990d24.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6c80b350.js"
+    "static/js/main.ef52cf5a.js"
   ]
 }
